@@ -1,0 +1,11 @@
+C:\TeamDriver\Core\bin\Debug\net7.0\Core.deps.json
+C:\TeamDriver\Core\bin\Debug\net7.0\Core.dll
+C:\TeamDriver\Core\bin\Debug\net7.0\Core.pdb
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.dll
+C:\TeamDriver\Core\obj\Debug\net7.0\refint\Core.dll
+C:\TeamDriver\Core\obj\Debug\net7.0\Core.pdb
+C:\TeamDriver\Core\obj\Debug\net7.0\ref\Core.dll

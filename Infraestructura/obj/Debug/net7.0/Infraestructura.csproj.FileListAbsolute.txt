@@ -1,0 +1,15 @@
+C:\TeamDriver\Infraestructura\bin\Debug\net7.0\Infraestructura.deps.json
+C:\TeamDriver\Infraestructura\bin\Debug\net7.0\Infraestructura.dll
+C:\TeamDriver\Infraestructura\bin\Debug\net7.0\Infraestructura.pdb
+C:\TeamDriver\Infraestructura\bin\Debug\net7.0\Core.dll
+C:\TeamDriver\Infraestructura\bin\Debug\net7.0\Core.pdb
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.AssemblyReference.cache
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfoInputs.cache
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfo.cs
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.CopyComplete
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.dll
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\refint\Infraestructura.dll
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\Infraestructura.pdb
+C:\TeamDriver\Infraestructura\obj\Debug\net7.0\ref\Infraestructura.dll
